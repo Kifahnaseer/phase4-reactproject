@@ -12,4 +12,5 @@ We decided to create an online food store called Comrade Treat. Here we describe
 In this project we aimed to create a project that has the following functionalities:
 <ul>
  <li>Homepage- Where a user can access all other services of the website.</li> 
+ <li>Orders-  An authenticated User can order food and drinks.</li>
 </ul>
