@@ -28,3 +28,5 @@ In this project we aimed to create a project that has the following functionalit
  <li>Product Testing</li>
  <li>Deployment(Live site)</li>
 </ul>
+
+## Technologies Used
