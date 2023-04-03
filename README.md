@@ -25,4 +25,5 @@ In this project we aimed to create a project that has the following functionalit
  <li>Planning</li>
  <li>Design</li>
  <li>Development</li>
+ <li>Product Testing</li>
 </ul>
