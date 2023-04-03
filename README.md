@@ -45,3 +45,6 @@ In this project we aimed to create a project that has the following functionalit
 ## Authors
 1. Khalid Zein
 2. Kifah Abdulnasir
+
+## License
+All rights reserved. MIT
