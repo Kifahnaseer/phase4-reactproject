@@ -2,6 +2,8 @@
 
 We decided to create an online food store called Comrade Treat. Here we describe the functionalities of the app and how it works in the background(server end).
 
+The Main aim of our app is to enable our users to access affordable and delicious foods, to customers who want quality delivered straight to their homes.
+
 ## Problem Statement
 <ul>
  <li>This Website is a cross-platform website development that provides a universal system for an online Restaurant, which is designed to work on all  operating systems.</li>
