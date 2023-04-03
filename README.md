@@ -32,4 +32,5 @@ In this project we aimed to create a project that has the following functionalit
 ## Technologies Used
 
 <ul>
+ <li>React</li>
 </ul>
