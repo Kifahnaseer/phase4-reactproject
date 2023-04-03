@@ -13,4 +13,5 @@ In this project we aimed to create a project that has the following functionalit
 <ul>
  <li>Homepage- Where a user can access all other services of the website.</li> 
  <li>Orders-  An authenticated User can order food and drinks.</li>
+ <li>Access and view all order Items.</li>
 </ul>
