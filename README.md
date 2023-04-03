@@ -18,3 +18,6 @@ In this project we aimed to create a project that has the following functionalit
  <li>Access and view all order Items.</li>
  <li>Payments- Pay for order items and access payment History</li>
 </ul>
+
+
+## Development and Thought Process
