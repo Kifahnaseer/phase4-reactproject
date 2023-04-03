@@ -21,3 +21,6 @@ In this project we aimed to create a project that has the following functionalit
 
 
 ## Development and Thought Process
+<ul>
+ 
+</ul>
