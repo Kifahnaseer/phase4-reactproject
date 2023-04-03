@@ -41,3 +41,7 @@ In this project we aimed to create a project that has the following functionalit
  <li>Git</li>
  <li>Vercel</li>
 </ul>
+
+## Authors
+1. Khalid Zein
+2. Kifah Abdulnasir
